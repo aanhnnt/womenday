@@ -1,2 +1,3 @@
-# WomenDay
-Link web demo: https://aanhnnt.github.io/womenday/
+# womanday
+
+[Demo](https://aanhnnt.github.io/womenday/)
